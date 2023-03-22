@@ -1,0 +1,26 @@
+.text-center{
+    text-align: center;
+}
+.border{
+    border: 1px solid lightblue;
+}
+.m-auto{
+    margin: 0 auto;
+}
+.p-10{
+    padding: 10px;
+}
+.p-20{
+    padding: 20px;
+}
+.w-50{
+    width: 50%;
+}
+.w-auto{
+    width: auto;
+}
+@media (max-width: 540px) { 
+    .w-50{
+        width: 100%;
+    }
+}
